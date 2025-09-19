@@ -7,7 +7,7 @@
 
 ## Langkah-Langkah
 
-1. **Download Gitd dan install**  
+1. **Download Git dan install**  
    <img src="https://drive.google.com/uc?export=view&id=1tg96yTBDdZnWsQf7JRMo0S-IjHoIUP44" alt="Download Git" width="700">
 
 2. **Cek Version Git**  
